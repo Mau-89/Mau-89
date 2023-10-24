@@ -2,6 +2,6 @@
 
 
 - 🔭 No momento sem atuação na área
-- 🌱 Aluno de Analise e Desenvolvimento de Sistema na PUC-PR
+- 🌱 Aluno de Análise e Desenvolvimento de Sistemas na PUC-PR
 - 🤔 No momento, Git tem sido uma complicação.
 - 
